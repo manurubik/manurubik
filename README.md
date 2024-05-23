@@ -52,8 +52,8 @@ Soy un desarrollador de software con pasión por la tecnología y la innovación
 
 ## 🌟 Proyecto Destacado
 
-### [Nombre del Proyecto](https://github.com/manurubik/accreditation-generator)
-**Descripción:** Generador de acreditaciones para campeonatos (en desarrollo).  
+### [Generador de acrediatciones](https://github.com/manurubik/accreditation-generator)
+**Descripción:** Generador de acreditaciones para campeonatos (en desarrollo). Dispone de vista previa editable.
 **Tecnologías:** HTML, CSS, JavaScript  
 ![Repo Size](https://img.shields.io/github/repo-size/manurubik/accreditation-generator)
 ![Last Commit](https://img.shields.io/github/last-commit/manurubik/accreditation-generator)

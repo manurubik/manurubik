@@ -52,11 +52,11 @@ Soy un desarrollador de software con pasión por la tecnología y la innovación
 
 ## 🌟 Proyecto Destacado
 
-### [Nombre del Proyecto](https://github.com/tu-usuario/proyecto-destacado)
-**Descripción:** Una breve descripción del proyecto, qué hace y por qué es interesante.  
-**Tecnologías:** HTML, CSS, JavaScript, React  
-![Repo Size](https://img.shields.io/github/repo-size/tu-usuario/proyecto-destacado)
-![Last Commit](https://img.shields.io/github/last-commit/tu-usuario/proyecto-destacado)
+### [Nombre del Proyecto](https://github.com/manurubik/accreditation-generator)
+**Descripción:** Generador de acreditaciones para campeonatos (en desarrollo).  
+**Tecnologías:** HTML, CSS, JavaScript  
+![Repo Size](https://img.shields.io/github/repo-size/manurubik/accreditation-generator)
+![Last Commit](https://img.shields.io/github/last-commit/manurubik/accreditation-generator)
 
 
 ## 📊 Estadísticas de GitHub

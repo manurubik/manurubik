@@ -1,5 +1,9 @@
 # ¡Hola! Soy Manuel 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-perfil/)](https://www.linkedin.com/in/manuelprietodeanton/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/tu-usuario/)](https://github.com/manurubik/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manuelprietodeanton@gmail.com)
+
 ## 👨‍💻 Sobre mí 
 Soy un desarrollador de software con pasión por la tecnología y la innovación. Me encanta aprender nuevas herramientas y lenguajes de programación, y aplicarlos en proyectos creativos y desafiantes.
 
@@ -67,11 +71,5 @@ Soy un desarrollador de software con pasión por la tecnología y la innovación
 
 ## ✍️ Blogs
 [Manuel Prieto - Speedcuber](https://manurubik.wordpress.com/)
-
-
-## 📬 Contacto  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-perfil/)](https://www.linkedin.com/in/manuelprietodeanton/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/tu-usuario/)](https://github.com/manurubik/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manuelprietodeanton@gmail.com)
 
 

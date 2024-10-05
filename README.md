@@ -54,13 +54,19 @@ Soy un desarrollador de software con pasión por la tecnología y la innovación
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
 
 
-## 🌟 Proyecto Destacado
+## 🌟 Proyectos Destacado
 
 ### [Generador de acrediatciones](https://github.com/manurubik/accreditation-generator)
 **Descripción:** Generador de acreditaciones para campeonatos (en desarrollo). Dispone de vista previa editable.
 **Tecnologías:** HTML, CSS, JavaScript  
 ![Repo Size](https://img.shields.io/github/repo-size/manurubik/accreditation-generator)
 ![Last Commit](https://img.shields.io/github/last-commit/manurubik/accreditation-generator)
+
+### [Little TacoShop](https://github.com/manurubik/Web-TacoShop)
+**Descripción:** Little TacoShop es una página web sencilla y atractiva para una tienda de tacos, diseñada para mostrar su menú, ofertas especiales y facilitar el contacto con los clientes. 
+**Tecnologías:** HTML, CSS, JavaScript  
+![Repo Size](https://img.shields.io/github/repo-size/manurubik/Web-TacoShop)
+![Last Commit](https://img.shields.io/github/last-commit/manurubik/Web-TacoShop)
 
 
 ## 📊 Estadísticas de GitHub

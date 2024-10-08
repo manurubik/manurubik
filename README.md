@@ -58,32 +58,35 @@ Soy un desarrollador de software con pasión por la tecnología y la innovación
 ## 🌟 Proyectos Destacados
 
 ### [Mi Portfolio](https://github.com/manurubik/myportfolio)
-**Descripción:** Web de mi Portfolio personal.
-**Tecnologías:** Next.js, Tailwind CSS  
+**Descripción:** Web de mi Portfolio personal.  
+**Tecnologías:** Next.js, Tailwind CSS   
+
 ![Repo Size](https://img.shields.io/github/repo-size/manurubik/myportfolio)
 ![Last Commit](https://img.shields.io/github/last-commit/manurubik/myportfolio)
 
 ### [(TODO) Generador de acrediatciones](https://github.com/manurubik/accreditation-generator)
-**Descripción:** Generador de acreditaciones para campeonatos (en desarrollo). Dispone de vista previa editable.
-**Tecnologías:** HTML 5, CSS 3, JavaScript  
+**Descripción:** Generador de acreditaciones para campeonatos (en desarrollo). Dispone de vista previa editable.  
+**Tecnologías:** HTML 5, SASS, JavaScript  
+
 ![Repo Size](https://img.shields.io/github/repo-size/manurubik/accreditation-generator)
 ![Last Commit](https://img.shields.io/github/last-commit/manurubik/accreditation-generator)
 
 ### [Little TacoShop](https://github.com/manurubik/Web-TacoShop)
-**Descripción:** Little TacoShop es una página web sencilla y atractiva para una tienda de tacos, diseñada para mostrar su menú, ofertas especiales y facilitar el contacto con los clientes. 
-**Tecnologías:** HTML 5, CSS 3, JavaScript  
+**Descripción:** Little TacoShop es una página web sencilla y atractiva para una tienda de tacos, diseñada para mostrar su menú, ofertas especiales y facilitar el contacto con los clientes.  
+**Tecnologías:** HTML 5, CSS 3, JavaScript   
+
 ![Repo Size](https://img.shields.io/github/repo-size/manurubik/Web-TacoShop)
 ![Last Commit](https://img.shields.io/github/last-commit/manurubik/Web-TacoShop)
 
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=manurubik&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=manurubik&show_icons=true&theme=tokyonight)  
 ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=manurubik&layout=compact&theme=tokyonight)
 
 
-## ✍️ Blogs
-### [Portfolio](https://github.com/manurubik/myportfolio)
+## ✍️ Webs
+### [Portfolio](https://manurubik.github.io/myportfolio/)
 ### [Manuel Prieto - Speedcuber](https://manurubik.wordpress.com/)
 
 

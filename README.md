@@ -59,20 +59,39 @@ Soy un desarrollador de software con pasión por la tecnología y la innovación
 
 ### [Mi Portfolio](https://github.com/manurubik/myportfolio)
 **Descripción:** Web de mi Portfolio personal.  
-**Tecnologías:** Next.js, Tailwind CSS   
+
+**Tecnologías:** Next.js, Tailwind CSS, Node.js
 
 ![Repo Size](https://img.shields.io/github/repo-size/manurubik/myportfolio)
 ![Last Commit](https://img.shields.io/github/last-commit/manurubik/myportfolio)
 
+### [SaaS Landing Page](https://github.com/manurubik/saas-landing-page)
+**Descripción:** La landing page para tu SaaS ofrece una experiencia intuitiva y atractiva para los usuarios. Con un diseño moderno y responsivo, la página destaca las características clave de tu servicio, incluyendo planes de precios flexibles y testimonios de clientes satisfechos.
+
+**Tecnologías:** React, Tailwind CSS, Vite
+
+![Repo Size](https://img.shields.io/github/repo-size/manurubik/saas-landing-page)
+![Last Commit](https://img.shields.io/github/last-commit/manurubik/saas-landing-page)
+
+### [Birthday Greeting App](https://github.com/manurubik/birthday-greeting-app)
+**Descripción:** "Birthday Greeting App" es una aplicación web que genera felicitaciones de cumpleaños personalizada y permite crear mensajes únicos para celebrar ocasiones especiales de manera sencilla y rápida. 
+
+**Tecnologías:** React, Tailwind CSS, Vite
+
+![Repo Size](https://img.shields.io/github/repo-size/manurubik/birthday-greeting-app)
+![Last Commit](https://img.shields.io/github/last-commit/manurubik/birthday-greeting-app)
+
 ### [(TODO) Generador de acrediatciones](https://github.com/manurubik/accreditation-generator)
 **Descripción:** Generador de acreditaciones para campeonatos (en desarrollo). Dispone de vista previa editable.  
-**Tecnologías:** HTML 5, SASS, JavaScript  
+
+**Tecnologías:** HTML 5, SASS, JavaScript, Gulp
 
 ![Repo Size](https://img.shields.io/github/repo-size/manurubik/accreditation-generator)
 ![Last Commit](https://img.shields.io/github/last-commit/manurubik/accreditation-generator)
 
 ### [Little TacoShop](https://github.com/manurubik/Web-TacoShop)
 **Descripción:** Little TacoShop es una página web sencilla y atractiva para una tienda de tacos, diseñada para mostrar su menú, ofertas especiales y facilitar el contacto con los clientes.  
+
 **Tecnologías:** HTML 5, CSS 3, JavaScript   
 
 ![Repo Size](https://img.shields.io/github/repo-size/manurubik/Web-TacoShop)
